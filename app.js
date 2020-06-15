@@ -63,3 +63,31 @@
         // alert(a)
 
 // -------------------------------------------------------------------------------------
+// Chapter 03:
+
+// Task01:
+    // var age = 20;
+    // alert("I'm " + age + " Years old")
+
+//Task02:
+    // var time = 1;
+    // function times() { 
+    // for (let i = 0; i < 4; i++) {
+    //     time++
+    // }
+    // };
+    // times();
+    // alert("You have visited this site "+time+" times..." )
+    
+//Task03:
+    // var by = 2000;
+    // var typ = typeof(by)
+    // document.write("My birth year is "+by+"<br>"+"data type of my declared number is "+typ)
+
+//Task04:
+    // var name = prompt("Enter your name...","Muahammad Abdullah");
+    // var ProductTitle = prompt("Enter the product title...","Shirt");
+    // var quantity =  prompt("Enter the quantity...","1 or 2 or 3......");
+    // alert(name+" Order "+quantity+" "+ProductTitle+" on She's Posh clothing store,ThankYou For Shopping....")
+
+// -------------------------------------------------------------------------------------
